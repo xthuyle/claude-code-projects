@@ -5,16 +5,14 @@
    ========================================================================== */
 
 :root {
-  /* Colour — warm browns & neutrals */
-  --espresso: #2A1813;   /* primary text, dark sections, primary buttons */
-  --cocoa:    #4B3329;   /* hover on dark, secondary dark surfaces */
-  --mocha:    #9E8770;   /* feature blocks (hero), large accents — not small text on cream */
-  --latte:    #C8B6A1;   /* buttons & rules on dark sections, tags */
-  --sand:     #E9DFD2;   /* alternate section background */
-  --cream:    #F5EEE6;   /* page background */
-  --linen:    #FBF8F4;   /* cards, form inputs */
-  --stone:    #6F6157;   /* muted / secondary text on light backgrounds */
-  --rule:     #D8CBBB;   /* hairline dividers on light backgrounds */
+  /* Colour — mostly Milk & Blush Oat, with pops of Dusty Rose / Cocoa Taupe,
+     and the occasional Espresso section */
+  --milk:     #FBF7F4;   /* MAIN: page background, cards, form inputs */
+  --oat:      #E8D8CE;   /* MAIN: Blush Oat — hero, alternate sections, panels */
+  --rose:     #B98F88;   /* POP: Dusty Rose — accent bands, rules, icons, focus rings */
+  --taupe:    #7A6258;   /* POP: Cocoa Taupe — secondary text, accent words, hover */
+  --espresso: #2A1813;   /* DARK: main text, primary buttons, occasional dark sections */
+  --rule:     #DCC8BC;   /* hairline dividers on Milk / Oat */
   --error:    #9B3B2A;
 
   /* Type — Helvetica Neue first (built into iPhone/Mac),

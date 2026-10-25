@@ -1,34 +1,32 @@
 # Thuy Le — Brand Guidelines
 
 Use this for **every** website, landing page, form and digital asset.
-The feel: **warm, editorial, modern, feminine and confident**. Think bold Swiss typography (Helvetica Neue Bold) softened by warm browns, creams and lots of breathing room.
+The feel: **warm, editorial, modern, feminine and confident**. Think bold Swiss typography (Helvetica Neue Bold) softened by milky neutrals, blush tones and lots of breathing room.
 
-Inspiration: the Sienna Hayes coaching site (colours, layout), Helvetica Neue Bold posters (type), Studio Selkie's checklist (numbered rows with hairline rules).
+Inspiration: "The Functional Glow" palette (colours), the Sienna Hayes coaching site (layout), Helvetica Neue Bold posters (type), Studio Selkie's checklist (numbered rows with hairline rules).
 
 ---
 
 ## 1. Colour palette
 
-| Swatch | Name | Hex | Use it for |
-| --- | --- | --- | --- |
-| ![](https://placehold.co/40x40/2A1813/2A1813.png) | **Espresso** | `#2A1813` | Main text, dark sections, primary buttons |
-| ![](https://placehold.co/40x40/4B3329/4B3329.png) | **Cocoa** | `#4B3329` | Hover states, secondary dark surfaces |
-| ![](https://placehold.co/40x40/9E8770/9E8770.png) | **Mocha** | `#9E8770` | Hero / feature blocks, large accents |
-| ![](https://placehold.co/40x40/C8B6A1/C8B6A1.png) | **Latte** | `#C8B6A1` | Buttons and lines on dark sections, tags |
-| ![](https://placehold.co/40x40/E9DFD2/E9DFD2.png) | **Sand** | `#E9DFD2` | Alternate section background |
-| ![](https://placehold.co/40x40/F5EEE6/F5EEE6.png) | **Cream** | `#F5EEE6` | Page background |
-| ![](https://placehold.co/40x40/FBF8F4/FBF8F4.png) | **Linen** | `#FBF8F4` | Cards, form inputs |
-| ![](https://placehold.co/40x40/6F6157/6F6157.png) | **Stone** | `#6F6157` | Secondary / muted text |
-| ![](https://placehold.co/40x40/D8CBBB/D8CBBB.png) | **Rule** | `#D8CBBB` | Hairline dividers |
+Based on "The Functional Glow" palette, keeping our own deep brown for the darks.
 
-**Rough balance:** 60% cream/linen/sand · 25% espresso · 15% mocha/latte.
+| Swatch | Name | Hex | Role |
+| --- | --- | --- | --- |
+| ![](https://placehold.co/40x40/FBF7F4/FBF7F4.png) | **Milk** | `#FBF7F4` | **Main.** Page background, cards, form inputs |
+| ![](https://placehold.co/40x40/E8D8CE/E8D8CE.png) | **Blush Oat** | `#E8D8CE` | **Main.** Hero, alternate sections, panels |
+| ![](https://placehold.co/40x40/B98F88/B98F88.png) | **Dusty Rose** | `#B98F88` | **Pop.** One accent band per page, rules, icons, focus rings |
+| ![](https://placehold.co/40x40/7A6258/7A6258.png) | **Cocoa Taupe** | `#7A6258` | **Pop.** Secondary text, the italic accent word, hover states |
+| ![](https://placehold.co/40x40/2A1813/2A1813.png) | **Espresso** | `#2A1813` | **Dark.** Main text, primary buttons, the occasional dark section |
+| ![](https://placehold.co/40x40/DCC8BC/DCC8BC.png) | Rule | `#DCC8BC` | Hairline dividers |
+
+**Balance:** ~75% Milk + Blush Oat · ~15% Espresso (text, buttons, one or two dark sections such as the footer) · ~10% Dusty Rose + Cocoa Taupe as pops.
 
 **Readability rules**
-- Body text is always **Espresso** or **Stone** on light backgrounds, and **Cream** on Espresso.
-- **Mocha is a background or very large display colour**, never small text on cream (too faint).
-- On a Mocha block, text is Espresso.
-- No pure black (`#000`) or pure white (`#FFF`) — use Espresso and Linen instead.
-- No cool greys, blues or bright accent colours.
+- Body text: **Espresso** on Milk / Blush Oat / Dusty Rose; **Milk** on Espresso.
+- Secondary text: **Cocoa Taupe** on Milk or Blush Oat.
+- **Dusty Rose is never small text on Milk or Blush Oat** (too faint) — use it as a background band, a line, an icon, or as text only on Espresso.
+- No pure black (`#000`) or pure white (`#FFF`), no cool greys, no bright colours.
 
 ---
 
@@ -62,13 +60,13 @@ Minimum 16px for form inputs (prevents iPhone zoom).
 - **Mobile first** — design for an iPhone in the Instagram in-app browser, then scale up.
 - **Hairline rules** (1px Rule colour) to separate rows, facts and list items — editorial, not boxy.
 - **Numbered rows** ("01", "02"…) in the Studio Selkie checklist style for lists of services, responsibilities or steps.
-- **Colour blocking:** alternate Cream → Sand → Espresso sections; one Mocha feature block (usually the hero).
+- **Colour blocking:** mostly Milk ↔ Blush Oat sections; one Dusty Rose accent band; Espresso for the occasional dark section and the footer.
 - **Buttons:** nearly square (2px radius), uppercase, tracked.
-  - Primary: Espresso background, Cream text → hover Cocoa.
+  - Primary: Espresso background, Milk text → hover Cocoa Taupe.
   - Secondary: transparent, 1px Espresso border.
-  - On dark sections: Latte background, Espresso text.
+  - On dark sections: Blush Oat background, Espresso text.
 - **Header:** small bold uppercase wordmark `THUY LE` with a thin divider, and one Apply/CTA button.
-- **No stock photos, fake testimonials or emoji.** Real photos of Thuy only, in warm tones.
+- **No stock photos, fake testimonials or emoji.** Real photos of Thuy only, in warm, soft tones.
 
 ---
 
