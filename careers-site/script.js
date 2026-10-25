@@ -201,7 +201,7 @@
       .catch(function () {
         submitBtn.disabled = false;
         submitBtn.textContent = "Submit application";
-        setStatus("Sorry — your application didn't go through. Your answers are still here, so please check your connection and try again. If it keeps happening, email info@xthuyleofficial.com.", true);
+        setStatus("Sorry — your application didn't go through. Your answers are still here, so please check your connection and try again. If it keeps happening, email twe@xthuyleofficial.com.", true);
       });
   });
 })();
