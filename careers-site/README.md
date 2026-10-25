@@ -11,6 +11,7 @@ Static careers page (styled to `brand/BRAND.md`) for the **Part-Time Executive &
 | `404.html` | Not-found page |
 | `styles.css` | All styling |
 | `script.js` | Validation, AJAX submission, draft autosave |
+| `images/` | Hero photo (JPEG + WebP, full size and 720px) |
 | `../netlify.toml` | Tells Netlify to publish this folder |
 
 No build step. Netlify serves the folder as-is and detects the form at deploy time.
