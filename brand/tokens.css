@@ -1,0 +1,41 @@
+/* ==========================================================================
+   Thuy Le — brand tokens
+   Copy this block into the top of any site's stylesheet (or link this file).
+   Full guidelines: brand/BRAND.md
+   ========================================================================== */
+
+:root {
+  /* Colour — warm browns & neutrals */
+  --espresso: #2A1813;   /* primary text, dark sections, primary buttons */
+  --cocoa:    #4B3329;   /* hover on dark, secondary dark surfaces */
+  --mocha:    #9E8770;   /* feature blocks (hero), large accents — not small text on cream */
+  --latte:    #C8B6A1;   /* buttons & rules on dark sections, tags */
+  --sand:     #E9DFD2;   /* alternate section background */
+  --cream:    #F5EEE6;   /* page background */
+  --linen:    #FBF8F4;   /* cards, form inputs */
+  --stone:    #6F6157;   /* muted / secondary text on light backgrounds */
+  --rule:     #D8CBBB;   /* hairline dividers on light backgrounds */
+  --error:    #9B3B2A;
+
+  /* Type — Helvetica Neue first (built into iPhone/Mac),
+     Instrument Sans as the free web fallback everywhere else */
+  --font: "Helvetica Neue", "Instrument Sans", Helvetica, Arial, sans-serif;
+
+  --weight-light: 300;
+  --weight-regular: 400;
+  --weight-medium: 500;
+  --weight-bold: 700;
+
+  --tracking-display: -0.025em;  /* big bold headlines */
+  --tracking-label: 0.2em;       /* small uppercase labels */
+
+  /* Shape */
+  --radius: 2px;                 /* buttons, inputs: crisp, nearly square */
+  --radius-card: 4px;
+}
+
+/* Google Fonts link for the fallback (put in <head>):
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet">
+*/

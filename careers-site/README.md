@@ -1,6 +1,6 @@
 # Thuy Le / Careers
 
-Static careers page for the **Part-Time Executive & Content Assistant** role, hosted on Netlify. Applications go to **Netlify Forms** (form name: `assistant-applications`).
+Static careers page (styled to `brand/BRAND.md`) for the **Part-Time Executive & Content Assistant** role, hosted on Netlify. Applications go to **Netlify Forms** (form name: `assistant-applications`).
 
 ## Files
 
