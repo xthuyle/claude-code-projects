@@ -5,12 +5,12 @@
    ========================================================================== */
 
 :root {
-  /* Colour — mostly Milk & Blush Oat, with pops of Dusty Rose / Cocoa Taupe,
+  /* Colour — mostly Milk & Blush Oat, with pops of Soft Blush / Cocoa Taupe,
      and the occasional Espresso section */
   --milk:     #FBF7F4;   /* MAIN: page background, cards, form inputs */
   --oat:      #E8D8CE;   /* MAIN: Blush Oat — hero, alternate sections, panels */
-  --rose:     #B98F88;   /* POP: Dusty Rose — accent bands, rules, icons, focus rings */
-  --taupe:    #7A6258;   /* POP: Cocoa Taupe — secondary text, accent words, hover */
+  --blush:    #ECD2CD;   /* POP: Soft Blush — accent bands, dots, focus glow, text on Espresso */
+  --taupe:    #7A6258;   /* POP: Cocoa Taupe — secondary text, accent words, lines, hover */
   --espresso: #2A1813;   /* DARK: main text, primary buttons, occasional dark sections */
   --rule:     #DCC8BC;   /* hairline dividers on Milk / Oat */
   --error:    #9B3B2A;

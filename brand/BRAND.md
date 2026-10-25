@@ -9,23 +9,24 @@ Inspiration: "The Functional Glow" palette (colours), the Sienna Hayes coaching 
 
 ## 1. Colour palette
 
-Based on "The Functional Glow" palette, keeping our own deep brown for the darks.
+Based on "The Functional Glow" palette, with a softer blush pink and our own deep brown for the darks.
 
 | Swatch | Name | Hex | Role |
 | --- | --- | --- | --- |
 | ![](https://placehold.co/40x40/FBF7F4/FBF7F4.png) | **Milk** | `#FBF7F4` | **Main.** Page background, cards, form inputs |
 | ![](https://placehold.co/40x40/E8D8CE/E8D8CE.png) | **Blush Oat** | `#E8D8CE` | **Main.** Hero, alternate sections, panels |
-| ![](https://placehold.co/40x40/B98F88/B98F88.png) | **Dusty Rose** | `#B98F88` | **Pop.** One accent band per page, rules, icons, focus rings |
-| ![](https://placehold.co/40x40/7A6258/7A6258.png) | **Cocoa Taupe** | `#7A6258` | **Pop.** Secondary text, the italic accent word, hover states |
+| ![](https://placehold.co/40x40/ECD2CD/ECD2CD.png) | **Soft Blush** | `#ECD2CD` | **Pop.** A light, muted blush pink: one accent band per page, small dots/icons, focus glow, text on Espresso |
+| ![](https://placehold.co/40x40/7A6258/7A6258.png) | **Cocoa Taupe** | `#7A6258` | **Pop.** Secondary text, the italic accent word, divider lines, hover states |
 | ![](https://placehold.co/40x40/2A1813/2A1813.png) | **Espresso** | `#2A1813` | **Dark.** Main text, primary buttons, the occasional dark section |
 | ![](https://placehold.co/40x40/DCC8BC/DCC8BC.png) | Rule | `#DCC8BC` | Hairline dividers |
 
-**Balance:** ~75% Milk + Blush Oat · ~15% Espresso (text, buttons, one or two dark sections such as the footer) · ~10% Dusty Rose + Cocoa Taupe as pops.
+**Balance:** ~75% Milk + Blush Oat · ~15% Espresso (text, buttons, one or two dark sections such as the footer) · ~10% Soft Blush + Cocoa Taupe as pops.
 
 **Readability rules**
-- Body text: **Espresso** on Milk / Blush Oat / Dusty Rose; **Milk** on Espresso.
+- Body text: **Espresso** on Milk / Blush Oat / Soft Blush; **Milk** on Espresso.
 - Secondary text: **Cocoa Taupe** on Milk or Blush Oat.
-- **Dusty Rose is never small text on Milk or Blush Oat** (too faint) — use it as a background band, a line, an icon, or as text only on Espresso.
+- **Soft Blush is a light colour** — use it for backgrounds, dots and glows, or as text on Espresso. Never for text or lines on Milk / Blush Oat (invisible); use Cocoa Taupe for lines there.
+- Avoid deeper, purplish pinks like `#B98F88` (Dusty Rose) — they read as bruised rather than soft.
 - No pure black (`#000`) or pure white (`#FFF`), no cool greys, no bright colours.
 
 ---
@@ -60,12 +61,13 @@ Minimum 16px for form inputs (prevents iPhone zoom).
 - **Mobile first** — design for an iPhone in the Instagram in-app browser, then scale up.
 - **Hairline rules** (1px Rule colour) to separate rows, facts and list items — editorial, not boxy.
 - **Numbered rows** ("01", "02"…) in the Studio Selkie checklist style for lists of services, responsibilities or steps.
-- **Colour blocking:** mostly Milk ↔ Blush Oat sections; one Dusty Rose accent band; Espresso for the occasional dark section and the footer.
+- **Colour blocking:** mostly Milk ↔ Blush Oat sections; one Soft Blush accent band; Espresso for the occasional dark section and the footer.
 - **Buttons:** nearly square (2px radius), uppercase, tracked.
   - Primary: Espresso background, Milk text → hover Cocoa Taupe.
   - Secondary: transparent, 1px Espresso border.
   - On dark sections: Blush Oat background, Espresso text.
 - **Header:** small bold uppercase wordmark `THUY LE` with a thin divider, and one Apply/CTA button.
+- **Lead with the opportunity, not the logistics.** The top of a page should make people feel "I want this": what's exciting and who it's for. Pay, hours and contract details come further down.
 - **No stock photos, fake testimonials or emoji.** Real photos of Thuy only, in warm, soft tones.
 
 ---
