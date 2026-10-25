@@ -37,7 +37,7 @@
     "creator-experience": "Creator and digital experience",
     "availability": "Availability",
     "cv-link": "CV or portfolio link",
-    "video-link": "Introductory video link",
+    "video-link": "Introduction video link",
     "privacy-consent": "Privacy consent"
   };
 
